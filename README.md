@@ -24,4 +24,4 @@ In order to be considered for the Android position, you must complete the follow
 	- Create a ListView that groups the recent commits by author in a custom view. 
 	- [Click here](example.jpg) for a screenshot mock up of what the final product should look like
 3. Commit and Push your code to your new repository
-4. Send us a pull request, we will review your code and get back to you
+4. Email us the link at akhil@loktra.com, we will review your code and get back to you
